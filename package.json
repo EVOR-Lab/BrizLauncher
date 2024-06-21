@@ -1,6 +1,6 @@
 {
-    "name": "briz-launcher-app",
-    "version": "0.0.1",
+    "name": "aurora-launcher-app",
+    "version": "0.0.4",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
@@ -88,8 +88,8 @@
         }
     },
     "build": {
-        "appId": "ru.briz.launcher",
-        "productName": "Briz Launcher",
+        "appId": "ru.aurora.launcher",
+        "productName": "Aurora Launcher",
         "publish": [
             {
                 "provider": "github",
