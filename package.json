@@ -94,8 +94,8 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "EVOR-Lab",
+                "repo": "BrizLauncher"
             }
         ],
         "directories": {
